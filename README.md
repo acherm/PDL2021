@@ -13,7 +13,7 @@ Cette mise en situation doit permettre de mieux comprendre et appréhender la di
  * de tenir les dates de rendu 
  * de valider de manière continue les exigences et l’implémentation
  
-Les objectifs et l'organisation de PDL sont décrits dans [un document au format PDF](XXX.pdf)
+Les objectifs et l'organisation de PDL sont décrits dans ce document: https://annuel2.framapad.org/p/projetpdl2021-9iqv
  
 ## Projet: Polyglot Wikipedia Matrix Extractor 
 
@@ -28,8 +28,8 @@ Pour initier le projet, chaque groupe s'appuiera sur des implémentations exista
 
 Le projet est décrit dans [un document au format PDF](YYY.pdf)
 
-La composition des groupes est à remplir en ligne avant le 24 septembre, 14h:
-ZZZ
+La composition des groupes est à remplir en ligne avant le XXX:
+https://lite.framacalc.org/9iqv-projetpdl2021-groupes 
 
 Le projet que vous aurez à maintenir et faire évoluer vous sera donné mercredi 25 septembre à 10h: *cf la feuille Google sheet et les assignations*
 
