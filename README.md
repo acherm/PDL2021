@@ -17,8 +17,14 @@ Les objectifs et l'organisation de PDL sont décrits dans [un document au format
  
 ## Projet: Polyglot Wikipedia Matrix Extractor 
 
-L'objectif du projet PDL 2019-2020 est d’extraire des tableaux au format CSV à partir de pages Wikipedia. 
-C'est la suite du projet 2018-2019: http://blog.mathieuacher.com/WikipediaMatrixChallenge/ 
+L'objectif du projet PDL 2020-2021 est d’extraire des tableaux au format CSV à partir de pages Wikipedia. 
+C'est la suite du projet 2018-2020: http://blog.mathieuacher.com/WikipediaMatrixChallenge/ 
+L'originalité cette année est quadruple:
+ * on veut écrire des extracteurs dans d'autres langages que Java (e.g., en Python ou JavaScript) -- c'est une approche multi-langage, *polyglote* 
+ * on veut *tester* ces extracteurs écrits dans différents langages
+ * on veut établir des *vérités terrains* (i.e., les résultats CSV attendus) en construisant un outil et en se servant des extracteurs
+ * on veut construire un *service en ligne* pour faciliter l'extraction par un utilisateur lambda 
+Pour initier le projet, chaque groupe s'appuiera sur des implémentations existantes d'extracteur, en Java, et réalisés par les promotions précédentes. 
 
 Le projet est décrit dans [un document au format PDF](YYY.pdf)
 
