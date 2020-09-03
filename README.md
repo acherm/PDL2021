@@ -23,10 +23,11 @@ L'originalité cette année est quadruple:
  * on veut écrire des extracteurs dans d'autres langages que Java (e.g., en Python ou JavaScript) -- c'est une approche multi-langage, *polyglote* 
  * on veut *tester* ces extracteurs écrits dans différents langages
  * on veut établir des *vérités terrains* (i.e., les résultats CSV attendus) en construisant un outil et en se servant des extracteurs
- * on veut construire un *service en ligne* pour faciliter l'extraction par un utilisateur lambda 
+ * (option) on veut proposer un *service en ligne* pour faciliter l'extraction par un utilisateur lambda
+ 
 Pour initier le projet, chaque groupe s'appuiera sur des implémentations existantes d'extracteur, en Java, et réalisés par les promotions précédentes. 
 
-Le projet est décrit dans [un document au format PDF](YYY.pdf)
+Le projet est décrit dans YYYY
 
 La composition des groupes est à remplir en ligne avant le XXX:
 https://lite.framacalc.org/9iqv-projetpdl2021-groupes 
