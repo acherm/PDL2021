@@ -27,7 +27,7 @@ L'originalité cette année est quadruple:
  
 Pour initier le projet, chaque groupe s'appuiera sur des implémentations existantes d'extracteur, en Java, et réalisés par les promotions précédentes. 
 
-Le projet est décrit dans YYYY
+Le projet est décrit dans https://annuel2.framapad.org/p/r.35d94f38fd3cbed4e5664cab60aad1f7
 
 La composition des groupes est à remplir en ligne avant le XXX:
 https://lite.framacalc.org/9iqv-projetpdl2021-groupes 
