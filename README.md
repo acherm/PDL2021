@@ -13,7 +13,7 @@ Cette mise en situation doit permettre de mieux comprendre et appréhender la di
  * de tenir les dates de rendu 
  * de valider de manière continue les exigences et l’implémentation
  
-Les objectifs et l'organisation de PDL sont décrits dans ce document: https://annuel2.framapad.org/p/projetpdl2021-9iqv
+Les objectifs et l'organisation de PDL sont décrits dans ce document: https://annuel2.framapad.org/p/r.47fadb4c2ba65628e2a7ef94c0c5fbea
  
 ## Projet: Polyglot Wikipedia Matrix Extractor 
 
