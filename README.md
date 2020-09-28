@@ -29,7 +29,7 @@ Pour initier le projet, chaque groupe s'appuiera sur des implémentations exista
 
 Le projet est décrit dans https://annuel2.framapad.org/p/r.35d94f38fd3cbed4e5664cab60aad1f7
 
-La composition des groupes est à remplir en ligne avant le XXX:
+La composition des groupes est à remplir en ligne:
 https://lite.framacalc.org/9iqv-projetpdl2021-groupes 
 
 Le projet que vous aurez à maintenir et faire évoluer vous sera donné mercredi 25 septembre à 10h: *cf la feuille Google sheet et les assignations*
@@ -46,7 +46,7 @@ Séances:
 
 ## Dates de rendu
 
- * EX : 7 octobre 2020 (23h59)  
+ * EX : 9 octobre 2020 (23h59)  
  * SP1 : 7 novembre 2020 (23h59)
  * SP2 : 1er décembre 2020 (23h59)
  * PR : 6 décembre 2020  
