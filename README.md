@@ -48,7 +48,7 @@ Séances:
 
  * EX : 9 octobre 2020 (23h59)  
  * SP1 : 6 novembre 2020 (23h59)
- * SP2 : 1er décembre 2020 (23h59)
+ * SP2 : **4 décembre 2020** (23h59)
  * PR : XXX 2020  
 
 
